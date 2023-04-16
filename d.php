@@ -1,4 +1,4 @@
-<?php
+
 // Folder path to be flushed
 $dateTimeNow = strtotime("now");
 // echo $dateTimeNow;
